@@ -38,9 +38,19 @@ Number and name of feature: Feature2: Fill page with my information
 
 Estimate of time needed to complete: 1 hour
 
-(Start time) - (Finish time): 9:25-11:53 with a 40 minute break.
+(Start time) - (Finish time): 9:25-11:53 with a 40 minute break; 12:20-12:40
 
-Actual time needed to complete: so far about an hour and 45 minutes
+Actual time needed to complete: so far about two hours
+```
+
+```
+Number and name of feature: Feature3: Deploy to heroku
+
+Estimate of time needed to complete: 1 hour
+
+(Start time) - (Finish time): 7:00-8:40; plus 20 scattered minutes
+
+Actual time needed to complete: 2 hours and incomplete
 ```
 
 
