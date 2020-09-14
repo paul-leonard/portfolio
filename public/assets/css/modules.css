@@ -453,7 +453,7 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("../../images/jonatan-pie-IK07OmXSnmU-unsplash.jpg");
     }
 
     #main > section.two {
@@ -827,4 +827,8 @@ button,
         margin-top: 0;
       }
 
+}
+
+.contactPaul {
+  font-family: 'Bad Script', cursive;
 }

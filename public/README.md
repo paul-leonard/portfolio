@@ -7,6 +7,7 @@ For today's lab assignment, you will work independently to create a personal por
 ## Resources
 
 - [HTML5 UP templates](https://html5up.net/)
+- [new tab for html links](https://www.rapidtables.com/web/html/link/html-link-new-window.html)
 
 ## Repository Set-up
 
@@ -27,23 +28,19 @@ Number and name of feature: Feature1: Break up main.css using SMACSS
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 7:50pm
+(Start time) - (Finish time): 7:50-8:30;  9:00-9:25
 
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 65 minutes
 ```
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: Feature2: Fill page with my information
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+(Start time) - (Finish time): 9:25-11:53 with a 40 minute break.
 
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: so far about an hour and 45 minutes
 ```
 
 
