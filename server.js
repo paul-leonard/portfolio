@@ -15,7 +15,7 @@ app.use(express.static('./public'));
 
 // the dotenv library lets us grab the PORT var from the .env using the magic words process.env.variableName
 const PORT = process.env.PORT;
- 
+
 // app.get('/', function (request, response) {
 //   response.send('Hello World');
 // });
@@ -23,7 +23,7 @@ const PORT = process.env.PORT;
 // app.get('/bananas', (request, response) => {
 //   response.send('I am bananas about bananas');
 // });
- 
+
 // turn on the server
 app.listen(PORT, () => {
   console.log(`listening on ${PORT}`);
