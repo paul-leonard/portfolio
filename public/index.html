@@ -9,7 +9,7 @@
 		<title>Paul Leonard | Software Developer & Engineer</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<!-- <link rel="stylesheet" href="assets/css/reset.css" /> -->
+		<link rel="stylesheet" href="assets/css/reset.css" />
 		<link rel="stylesheet" href="assets/css/base.css" />
 		<link rel="stylesheet" href="assets/css/layout.css" />
 		<link rel="stylesheet" href="assets/css/modules.css" />
@@ -194,6 +194,8 @@
 			</div>
 
 		<!-- Scripts -->
+			<script src="./server.js"></script>
+			<!-- above added to see if it could not find server.js -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
@@ -204,3 +206,11 @@
 
 	</body>
 </html>
+
+<!-- possible issues causing heroku to fail?
+server.js was not linked in html
+server.js location in public or not... 
+somehow server.js in both public and one up now after i did a mv command
+nodemon did not work either
+something with .env with heroku? -->
+
