@@ -21,9 +21,22 @@ ol {
   padding-left: 1.25em;
 }
 
-  ol li {
-    padding-left: 0.25em;
-  }
+ol li {
+  padding-left: 0.25em;
+}
+
+.item ul {
+  margin-bottom: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.item li {
+  font-size: .8em;
+  padding: 5px;
+  line-height: 1em;
+  list-style: none;
+}
 
 
   /* Icons */
@@ -299,6 +312,11 @@ button,
         color: #fff;
       }
 
+.item h3 {
+  padding-bottom: 5px;
+  font-weight: 500;
+}
+
 #logo {
   position: relative;
   margin: 1.75em 1.5em 1.5em 1.5em;
@@ -309,7 +327,7 @@ button,
   #logo h1 {
     position: relative;
     color: #fff;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 1em;
     line-height: 1em;
   }
